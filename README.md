@@ -106,7 +106,7 @@ ecommerce-sales-analytics/
 5. **Python (optional):** upload `python/analysis.ipynb` to Google Colab, Run all, upload the CSV when asked.
 
 ## Author
-**Susheen** - aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+**Sankita Kundu**- aspiring Data Analyst
+[LinkedIn](https://www.linkedin.com/in/sankita-kundu-94167233b) · [GitHub](https://github.com/sankitakundu8-sketch)
 
 > Data is synthetic and created for portfolio purposes. It does not represent any real company.
